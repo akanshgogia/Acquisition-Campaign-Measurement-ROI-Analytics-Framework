@@ -264,4 +264,4 @@ Distributed under the MIT License — see [`LICENSE`](LICENSE) for details.
 ## 👤 Author
 
 **Akansh** — MCA (AI & ML), Amity University · BCA, Kalinga University
-Background in retail banking (Relationship Officer, Axis Bank) transitioning into data analytics & AI engineering.
+Background in Data Analysis transitioning into AI/ML engineering.
